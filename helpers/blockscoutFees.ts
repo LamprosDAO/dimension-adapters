@@ -86,6 +86,11 @@ export const chainConfigMap: any = {
   [CHAIN.DERI_CHAIN]: { CGToken: 'ethereum', explorer: 'https://explorer-dchain.deri.io/' },
   [CHAIN.EARNM]: { CGToken: 'ethereum', explorer: 'https://earnm-mainnet.explorer.alchemy.com/' },
   [CHAIN.DUCK_CHAIN]: { CGToken: 'ethereum', explorer: 'https://scan.duckchain.io/' },
+  [CHAIN.EDU_CHAIN]: { CGToken: 'ethereum', explorer: 'https://educhain.blockscout.com/' },
+  [CHAIN.ETHEREAL_MAINNET]: { CGToken: 'ethereum', explorer: 'https://explorer.ethereal.trade/' },
+  [CHAIN.EVENTUM]: { CGToken: 'ethereum', explorer: 'https://explorer.evedex.com/' },
+  [CHAIN.EVERCLEAR]: { CGToken: 'ethereum', explorer: 'https://scan.everclear.org/' },
+  [CHAIN.FLYNET]: { CGToken: 'ethereum', explorer: 'https://explorer.flynet.org/' },
 
 }
 
